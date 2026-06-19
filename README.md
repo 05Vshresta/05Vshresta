@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="wave"/>
   <h1>Hey there, I'm Shresta Vadla!</h1>
 
-  <a href="https://git.io/typing-svg">
+  <a href="https://git.io/typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Student+%F0%9F%8E%93;Python+%26+Web+Dev+Enthusiast;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
