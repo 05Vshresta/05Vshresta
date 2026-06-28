@@ -76,6 +76,6 @@
 ## 🤝 Let's Connect!
 <div align="center">
 I'm always open to collaborating on interesting projects, swapping ideas, or just a good tech conversation. Let's build something awesome together!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shrestavadla/)
+
 ---
 </div>
