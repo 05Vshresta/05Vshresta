@@ -53,7 +53,7 @@
 <!-- SECTION 4: SOCIAL MEDIA LINKS -->
 ## 🌐 Find Me Online
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shresta%20Vadla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrestavadla/)
+[![LinkedIn](www.linkedin.com/in/shrestavadlaVanity URL name)
 </div>
 
 ---
